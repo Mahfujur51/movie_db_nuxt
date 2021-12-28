@@ -1,6 +1,8 @@
 <template>
   <div>
 
+   <div class="" style="color:white"> {{this.$route.params.movieid}} </div>
+ 
   </div>
 </template>
 
